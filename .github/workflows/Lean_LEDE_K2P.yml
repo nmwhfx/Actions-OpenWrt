@@ -16,7 +16,7 @@ on:
     branches:
       - master
     paths:
-      - 'Lean_LEDE_K2P.config'
+      - 'k2p-mini.config'
   schedule:
     - cron: 0 6 1/3 * *
   watch:
